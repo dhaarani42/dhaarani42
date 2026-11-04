@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-7c3aed?style=for-the-badge&logo=githubpages&logoColor=white)](https://dhaarani42.github.io/portfolio_nm/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-7c3aed?style=for-the-badge&logo=githubpages&logoColor=white)](https://dhaaranidhanasekaran.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhaarani-dhanasekeran-557989320/)
 ![Profile Views](https://komarev.com/ghpvc/?username=dhaarani42&color=ec4899&style=for-the-badge&label=PROFILE+VIEWS)
 
