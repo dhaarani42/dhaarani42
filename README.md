@@ -73,10 +73,10 @@ print(me.learning_style())
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dhaarani42&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=ec4899&text_color=c9d1d9" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhaarani42&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" alt="Top languages"/>
-
 <img src="https://streak-stats.demolab.com?user=dhaarani42&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=EC4899" alt="GitHub streak"/>
+
+![Top Language](https://img.shields.io/badge/Top%20Language-Python-a78bfa?style=for-the-badge&labelColor=0d1117&logo=python&logoColor=a78bfa)
+![Repos](https://img.shields.io/badge/Public%20Repos-7-ec4899?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=ec4899)
 
 </div>
 
