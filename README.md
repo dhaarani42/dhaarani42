@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Dhaarani%20Dhanasekeran&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analytics%20%E2%9C%A6%20Python%20%E2%9C%A6%20AI%2FML%20%E2%9C%A6%20MERN&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Dhaarani%20Dhanasekeran&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analytics%20%E2%9C%A6%20Python%20%E2%9C%A6%20AI%2FML&descAlignY=60&descSize=18" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Dhaarani+%F0%9F%91%8B;Turning+raw+data+into+useful+insights+%F0%9F%93%8A;Learning+Python%2C+AI%2FML+and+MERN+%F0%9F%9A%80;Based+in+Coimbatore%2C+Tamil+Nadu+%F0%9F%87%AE%F0%9F%87%B3)](https://github.com/dhaarani42)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Dhaarani+%F0%9F%91%8B;Turning+raw+data+into+useful+insights+%F0%9F%93%8A;Learning+Python+and+AI%2FML+%F0%9F%9A%80;Based+in+Coimbatore%2C+Tamil+Nadu+%F0%9F%87%AE%F0%9F%87%B3)](https://github.com/dhaarani42)
 
 <br/>
 
@@ -48,11 +48,6 @@ print(me.learning_style())
 ![HTML5](https://img.shields.io/badge/HTML5-1e1b2e?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-1e1b2e?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1e1b2e?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-1e1b2e?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-![Node.js](https://img.shields.io/badge/Node.js-1e1b2e?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-1e1b2e?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-1e1b2e?style=for-the-badge&logo=mongodb&logoColor=47A248)
 
 ![Git](https://img.shields.io/badge/Git-1e1b2e?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-1e1b2e?style=for-the-badge&logo=github&logoColor=white)
@@ -66,7 +61,7 @@ print(me.learning_style())
 
 | Project | What it does | Tech |
 |:--|:--|:--|
-| 🌍 [**Echoes of Travel**](https://github.com/dhaarani42/echoes_of_travel) | Full-stack travel bucket list: track visited places and manage memories and plans | `MongoDB` `Express` `React` `Node.js` |
+| 🌍 [**Echoes of Travel**](https://github.com/dhaarani42/echoes_of_travel) | Full-stack travel bucket list: track visited places and manage memories and plans | `Full-Stack` `JavaScript` |
 | ✍️ [**Blog Manager**](https://github.com/dhaarani42/blog_manager) | Tool for content creators to manage their blogs | `CSS` |
 | 📊 [**Data Science Internship Journey**](https://github.com/dhaarani42/Data-Science-Internship-Journey) | Notes and work from my data science internship | `Python` |
 | 🐍 [**Python Practice**](https://github.com/dhaarani42/Python) | Python problems for logic and problem solving | `Python` |
@@ -91,7 +86,7 @@ print(me.learning_style())
 
 - 📊 Getting stronger at **data analysis** with Python
 - 🤖 Exploring **AI / ML** fundamentals
-- 🌐 Building more **MERN stack** projects
+- 🌐 Building more **web projects**
 - 🧩 Solving Python problems regularly
 
 ---
